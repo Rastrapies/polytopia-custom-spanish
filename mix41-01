@@ -429,9 +429,9 @@
   "gameinfo.turn": "Turno: {0}", 
   "gameinfo.serverversion": "Versión del servidor: {0}", 
   "gameinfo.gameover": "La partida finalizó, abre para ver el resultado final", 
-  "gameinfo.yourturn": "Es tu turno de {0}", 
+  "gameinfo.yourturn": "Ahora debes {0}", 
   "gameinfo.opponentsturn": "Esperando a {0}", 
-  "gameinfo.start": "empezar partida", 
+  "gameinfo.start": "iniciar la partida", 
   "gameinfo.picktribe": "elige tribu", 
   "gameinfo.play": "jugar", 
   
