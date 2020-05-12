@@ -785,7 +785,7 @@
   "onlineview.clipboard": "ID de la partida copiada en el portapapeles: {0}", 
   "onlineview.clipboard.title": " ¡Voilà!", 
   "onlineview.game.join": "UNIRSE A LA PARTIDA", 
-  "onlineview.game.start": "INICIAR PARTIDA", 
+  "onlineview.game.start": "INICIAR", 
   "onlineview.game.open": "ABRIR", 
   "onlineview.game.size": "Tamaño del tablero", 
   "onlineview.game.moreinfo": "Más información", 
