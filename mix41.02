@@ -716,7 +716,7 @@
   "settings.language": "Idioma", 
   "settings.restartlanguage": "Reinicia Polytopia para cambiar el idioma por completo", 
   "settings.language.load.title": "Idioma personalizado (BETA)", 
-  "settings.language.load.info": "Carga un archivo de lenguaje para Polytopia desde un servidor remoto usando https. Esta es una opción experimental, no apta para asustadizos.", 
+  "settings.language.load.info": "Carga un archivo de lenguaje para Polytopia desde un servidor remoto usando https. Esta es una opción experimental, no apta para pusilánimes.", 
   "settings.language.load.input": "URL del archivo:", 
   "settings.language.load.button": "CARGAR", 
   "throne.title": "SALA DEL TRONO", 
