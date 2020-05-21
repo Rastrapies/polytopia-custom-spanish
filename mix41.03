@@ -112,7 +112,7 @@
   "gamemode.death": "Perdiste tu capital, has sido derrotado.", 
   
   "world.intro.title": "¡Gran Líder!", 
-  "world.intro.text": "Has sido ungido para gobernar la tribu {0}. Explora el tablero y expande tu imperio, pero ten cuidado con las demás tribus.", 
+  "world.intro.text": "¡Has sido ungido para gobernar la tribu {0}! Explora el tablero y expande tu imperio, pero ten cuidado con las demás tribus.", 
   "world.intro.objective": "Objetivo: {0}", 
   "world.turn.end": "Finalizar Turno", 
   "world.turn.end.question": "¿Quieres finalizar tu turno?", 
@@ -550,7 +550,7 @@
   "technology.ability.info": "{1} te da la habilidad de {1}",
   "technology.names.basic": "básico",
   "technology.names.riding": "Jinetes",
-  "technology.names.freespirit": "Libertades individuales",
+  "technology.names.freespirit": "Derechos y libertades",
   "technology.names.chivalry": "Terratenientes",
   "technology.names.roads": "Rutas",
   "technology.names.trade": "Comercio",
