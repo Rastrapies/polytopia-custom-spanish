@@ -95,8 +95,8 @@
   "gamemode.perfection.description": "Obtén la mejor puntuación que puedas antes de que se acaben los turnos.", 
   "gamemode.perfection.win": "Se acabó el tiempo. ¡Tu tribu será recordada por siempre!", 
   "gamemode.perfection.loss": "Se acabó el tiempo.", 
-  "gamemode.domination.caps": " EXTERMINIO", 
-  "gamemode.domination": " Exterminio", 
+  "gamemode.domination.caps": "EXTERMINIO" 
+  "gamemode.domination": "Exterminio", 
   "gamemode.domination.description.button": "Juega hasta que sólo quede una tribu, sin límite de tiempo.", 
   "gamemode.domination.description": "Elimina a todas las tribus enemigas del tablero. ¡Sólo puede quedar una!", 
   "gamemode.domination.win": "¡Has derrotado a todas las tribus y has unificado el mundo de Polytopia! ", 
@@ -644,7 +644,7 @@
   "endscreen.techscore": "{0}/{1} tecnologías descubiertas", 
   "endscreen.bonus": "Bonus de Dificultad", 
   "endscreen.finalscore": "PUNTUACIÓN FINAL", 
-  "endscreen.speedskills": "Habilidades de duración", 
+  "endscreen.speedskills": "Habilidades de rapidez", 
   "endscreen.domination.win": "{0}/{1} turnos", 
   "endscreen.domination.loss": "{0} turnos", 
   "endscreen.battle": "Habilidades bélicas", 
@@ -683,7 +683,7 @@
   
   "gamestats.gamemode": "Modo de juego: {0}", 
   "gamestats.bonus": "Bonus por dificultad: {0}", 
-  "gamestats.speed": "Habilidades de duración", 
+  "gamestats.speed": "Habilidades de rapidez", 
   "gamestats.speed.info": "{0}/{1} turnos", 
   "gamestats.battle": "Habilidades bélicas", 
   "gamestats.battle.info": "{0} ganadas, {1} perdidas", 
