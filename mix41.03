@@ -95,7 +95,7 @@
   "gamemode.perfection.description": "Obtén la mejor puntuación que puedas antes de que se acaben los turnos.", 
   "gamemode.perfection.win": "Se acabó el tiempo. ¡Tu tribu será recordada por siempre!", 
   "gamemode.perfection.loss": "Se acabó el tiempo.", 
-  "gamemode.domination.caps": "EXTERMINIO" 
+  "gamemode.domination.caps": "EXTERMINIO", 
   "gamemode.domination": "Exterminio", 
   "gamemode.domination.description.button": "Juega hasta que sólo quede una tribu, sin límite de tiempo.", 
   "gamemode.domination.description": "Elimina a todas las tribus enemigas del tablero. ¡Sólo puede quedar una!", 
